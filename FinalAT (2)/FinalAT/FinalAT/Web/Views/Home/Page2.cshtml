@@ -1,0 +1,14 @@
+﻿@{ 
+    ViewData["title"] = "Page2";
+}
+
+@foreach(var item in (List<ContactForm>)ViewBag.Contact)
+{
+<tr>
+    <td>@item.name</td>
+    <td>@item.email</td>
+    <td>@item.gender</td>
+    <td>@item.text</td>
+</tr> <br/>
+}
+<a href="@Url.Action("Index","Home")">Home</a>

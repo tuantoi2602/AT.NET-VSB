@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appConfig>
+	<title>Painter</title>
+	<width>800</width>
+	<height>500</height>
+	<about>
+		This is my painter app!
+	</about>
+</appConfig>

@@ -1,0 +1,8 @@
+Delegát - vybrat a, b, c (upravit výraz na lambda výraz) (4b)	1
+K čemu v ASP.NET slouží App_Data, k čemu slouží metoda MapPath z HttpServerUtility (4b)	1
+Máte dotaz vyhodnotit a napsat co vypíše konzole (LINQ) (3b)	1
+Popsat FilesystemWatcher - účel (4b)	1
+System.IO.IsolateStorage - kdy byste ho použil (3b)	1
+Streamy používající rozhraní IDisposable (4b)	1
+Proč u webových aplikací se zabýváme Accessibility (4b)	1
+unsafe proč se používá příkaz fixed (4b)

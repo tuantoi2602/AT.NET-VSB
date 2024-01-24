@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Page 2";
+}
+
+
+@foreach (var item in (List<ContactForm>)ViewBag.Contacts)
+{
+    <tr>
+        <td>@item.Name</td>
+        <td>@item.Email</td>
+        <td>@item.Text</td>
+
+    </tr>
+}

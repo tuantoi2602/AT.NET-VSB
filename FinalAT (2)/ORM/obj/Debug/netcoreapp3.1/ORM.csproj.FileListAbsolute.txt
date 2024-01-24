@@ -1,0 +1,14 @@
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.exe
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.runtimeconfig.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.runtimeconfig.dev.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.AssemblyReference.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\ORM\obj\Debug\netcoreapp3.1\ORM.genruntimeconfig.cache

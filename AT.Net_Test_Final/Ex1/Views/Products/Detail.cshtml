@@ -1,0 +1,25 @@
+﻿@model OrderForm
+@{
+    Product product = ViewBag.Product;
+}
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(x => x.email)
+        @Html.TextBoxFor(x => x.email)
+        @Html.ValidationMessageFor(x => x.email)
+    </div>
+    <div>
+        @Html.LabelFor(x => x.name)
+        @Html.TextBoxFor(x => x.name)
+        @Html.ValidationMessageFor(x => x.name)
+    </div>
+    <div>
+        @Html.LabelFor(x => x.address)
+        @Html.TextAreaFor(x => x.address)
+        @Html.ValidationMessageFor(x => x.address)
+    </div>
+
+    <button type="submit">Submit</button>
+}

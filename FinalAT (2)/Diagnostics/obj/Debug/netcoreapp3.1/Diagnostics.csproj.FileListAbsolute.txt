@@ -1,0 +1,13 @@
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.exe
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.deps.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.runtimeconfig.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.runtimeconfig.dev.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\bin\Debug\netcoreapp3.1\Diagnostics.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.AssemblyInfoInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.AssemblyInfo.cs
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Diagnostics\obj\Debug\netcoreapp3.1\Diagnostics.genruntimeconfig.cache

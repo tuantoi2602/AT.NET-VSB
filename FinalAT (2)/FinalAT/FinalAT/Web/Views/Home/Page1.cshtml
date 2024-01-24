@@ -1,0 +1,34 @@
+﻿@model ContactForm
+
+@{
+    ViewData["Title"] = "Page1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Page1</h1>
+
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(x => x.name)
+        @Html.TextBoxFor(x => x.name)
+        @Html.ValidationMessageFor(x => x.name)
+    </div>
+    <div>
+        @Html.LabelFor(x => x.email)
+        @Html.TextBoxFor(x => x.email)
+        @Html.ValidationMessageFor(x => x.email)
+    </div>
+    <div>
+        @Html.DropDownListFor(x => x.gender,
+       new SelectList(Enum.GetValues(typeof(Gender))), "Select Gender")
+    </div>
+    <div>
+        @Html.LabelFor(x => x.text)
+        @Html.TextBoxFor(x => x.text)
+        @Html.ValidationMessageFor(x => x.text)
+    </div>
+
+    <button type="submit">Send</button>
+}
+<a href="@Url.Action("Index","Home")">Home</a>

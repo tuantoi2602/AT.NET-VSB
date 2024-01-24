@@ -1,0 +1,10 @@
+﻿<ul>
+    @foreach (var product in (List<Product>)ViewBag.Products)
+    {
+    <li>
+        <strong>@product.name</strong> |  @product.price
+    <a href="@Url.Action("Detail", new { id = product.id })">Detail</a>
+    </li>
+    }
+</ul>
+

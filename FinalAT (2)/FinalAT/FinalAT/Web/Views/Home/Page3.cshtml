@@ -1,0 +1,16 @@
+﻿@{ 
+    ViewData["title"] = "Page3";
+}
+
+@foreach(News item in (List<News>)ViewBag.News)
+{
+<tr>
+    <td>
+        <h2>@item.Title</h2>
+    </td>
+    <td>
+        <a href="@item.Link">Link</a>
+    </td>
+</tr>
+}
+<a href="@Url.Action("Index","Home")">Home</a>

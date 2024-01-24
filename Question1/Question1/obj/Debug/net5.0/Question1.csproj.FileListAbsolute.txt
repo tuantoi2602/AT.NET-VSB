@@ -1,0 +1,16 @@
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.exe
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.deps.json
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.runtimeconfig.json
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.runtimeconfig.dev.json
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.dll
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\ref\Question1.dll
+C:\Users\phamt\source\repos\Question1\Question1\bin\Debug\net5.0\Question1.pdb
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.csproj.AssemblyReference.cache
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.AssemblyInfoInputs.cache
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.AssemblyInfo.cs
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.dll
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\ref\Question1.dll
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.pdb
+C:\Users\phamt\source\repos\Question1\Question1\obj\Debug\net5.0\Question1.genruntimeconfig.cache

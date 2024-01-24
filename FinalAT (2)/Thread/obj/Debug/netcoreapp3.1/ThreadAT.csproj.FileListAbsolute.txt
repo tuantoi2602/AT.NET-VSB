@@ -1,0 +1,14 @@
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.exe
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.deps.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.runtimeconfig.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.runtimeconfig.dev.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\bin\Debug\netcoreapp3.1\ThreadAT.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.csproj.AssemblyReference.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.AssemblyInfoInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.AssemblyInfo.cs
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\Thread\obj\Debug\netcoreapp3.1\ThreadAT.genruntimeconfig.cache

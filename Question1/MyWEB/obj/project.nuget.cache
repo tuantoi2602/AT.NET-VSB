@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gp1iJbJyOj2jAp7gl47O2v6puEZREosDJIRCYgb7hCo8TxFDk4mHceCmitcorI+HvxsNGLFCDb8IYUhWbQCn8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phamt\\source\\repos\\Question1\\MyWEB\\MyWEB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

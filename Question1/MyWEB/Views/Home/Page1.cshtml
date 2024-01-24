@@ -1,0 +1,20 @@
+﻿@model ContactForm
+
+@{
+    ViewData["Title"] = "Page 1";
+}
+
+@*display Form Contact*@
+<section id="main-body">
+
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+
+        @Html.TextBoxFor(x => x.Name, new { @placeholder = "Name" });
+        @Html.TextBoxFor(x => x.Email, new { @placeholder = "Email Address", @type = "email" });
+        @Html.TextBoxFor(x => x.Text, new { @placeholder = "Text", @type = "textarea " });
+        <button type="submit" class="login-btn">Send Message</button>
+    }
+
+
+</section>

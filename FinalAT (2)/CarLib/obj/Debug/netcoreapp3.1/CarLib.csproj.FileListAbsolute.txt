@@ -1,0 +1,10 @@
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\bin\Debug\netcoreapp3.1\CarLib.deps.json
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\bin\Debug\netcoreapp3.1\CarLib.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\bin\Debug\netcoreapp3.1\CarLib.pdb
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.csproj.AssemblyReference.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.AssemblyInfoInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.AssemblyInfo.cs
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.dll
+C:\Users\tuanh\Desktop\AT.NET\2. Reflection\Reflection\CarLib\obj\Debug\netcoreapp3.1\CarLib.pdb
